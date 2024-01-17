@@ -1,0 +1,28 @@
+body{
+    background-size: cover;
+}
+.heading{
+    font-size: 23px;
+    margin: 0;
+    width: 100%;
+box-shadow: 10px 10px 19px orangered;
+}
+.note{
+    font-size: 16px;
+   color:grey ;
+}
+.footer{
+    color: whitesmoke;
+    position: fixed;
+    background-color: gray;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    text-shadow: 8px 8px 20px rgb(72, 0, 72);
+    
+}
+canvas{
+    border:5px solid brown;
+    border-radius: 50px;
+    box-shadow: 8px 8px 18px orangered;
+}
